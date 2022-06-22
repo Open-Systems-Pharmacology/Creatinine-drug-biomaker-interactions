@@ -2,7 +2,7 @@
 Modeling of clinical creatinine drug-biomarker interaction studies with trimethoprim, pyrimethamine and cimetidine for model evaluation
 
 ### Repository files
-Within this repository, we distribute MoBi project files containing simulations of clinical studies used to evaluate the predictive performance of the creatinine model regarding the trimethoprim-creatinine, pyrimethamine-creatinine and cimetidine-creatinine drug-biomarker interactions, including the respective observed data [[1](#reference)][[2](#reference)][[3](#reference)]. The applied [trimethoprim](https://github.com/Open-Systems-Pharmacology/Trimethoprim-Model) [[4](#reference)], [cimetidine](https://github.com/Open-Systems-Pharmacology/Cimetidine-Model) [[5](#reference)] and pyrimethamine models have been published previously, the latter refined to apply it for transporter-mediated interactions [[6](#reference)]. For further details and documentation, please refer to [[7](#reference)].
+Within this repository, we distribute MoBi project files containing simulations of clinical studies used to evaluate the predictive performance of the creatinine model regarding the trimethoprim-creatinine, pyrimethamine-creatinine and cimetidine-creatinine drug-biomarker interactions, including the respective observed data [[1](#reference)][[2](#reference)][[3](#reference)]. The applied [trimethoprim](https://github.com/Open-Systems-Pharmacology/Trimethoprim-Model) [[4](#reference)], [cimetidine](https://github.com/Open-Systems-Pharmacology/Cimetidine-Model) [[5](#reference)] and pyrimethamine [[6](#reference)] models have been published previously, the latter refined to apply it for transporter-mediated interactions. For further details and documentation, please refer to [[7](#reference)].
 
 ### Version information
 MoBi Version 9.1
@@ -25,8 +25,8 @@ The model code is distributed under the [GPLv2 License](https://github.com/Open-
 
 [[4] Türk D, Hanke N, Lehr T. A physiologically-based pharmacokinetic model of trimethoprim for MATE1, OCT1, OCT2, and CYP2C8 drug-drug-gene interaction predictions. Pharmaceutics. 2020;12(11):1074.](https://www.mdpi.com/1999-4923/12/11/1074)
 
-[[5] Sjögren E, Tarning J, Barnes KI, Jonsson EN. A physiologically-based pharmacokinetic framework for prediction of drug exposure in malnourished children. Pharmaceutics. 2021;13(2):204.](https://www.mdpi.com/1999-4923/13/2/204)
+[[5] Hanke N, Türk D, Selzer D, Ishiguro N, Ebner T, Wiebe S, Müller F, Stopfer P, Nock V, Lehr T. A Comprehensive whole-body physiologically based pharmacokinetic drug-drug-gene interaction model of metformin and cimetidine in healthy adults and renally impaired individuals. Clinical Pharmacokinetics. 2020;59(11):1419-31.](https://link.springer.com/article/10.1007/s40262-020-00896-w)
 
-[[6] Hanke N, Türk D, Selzer D, Ishiguro N, Ebner T, Wiebe S, Müller F, Stopfer P, Nock V, Lehr T. A Comprehensive whole-body physiologically based pharmacokinetic drug-drug-gene interaction model of metformin and cimetidine in healthy adults and renally impaired individuals. Clinical Pharmacokinetics. 2020;59(11):1419-31.](https://link.springer.com/article/10.1007/s40262-020-00896-w)
+[[6] Sjögren E, Tarning J, Barnes KI, Jonsson EN. A physiologically-based pharmacokinetic framework for prediction of drug exposure in malnourished children. Pharmaceutics. 2021;13(2):204.](https://www.mdpi.com/1999-4923/13/2/204)
 
 [[7] Türk D, Müller F, Fromm MF, Selzer D, Dallmann R, Lehr T. Renal transporter-mediated drug-biomarker interactions of the endogenous substrates creatinine and N1 -methylnicotinamide: a PBPK modeling approach. Clinical Pharmacology & Therapeutics. 2022. Online ahead of print](https://ascpt.onlinelibrary.wiley.com/doi/10.1002/cpt.2636)
